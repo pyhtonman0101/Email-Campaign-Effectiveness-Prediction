@@ -61,8 +61,8 @@ This study characterizes and predicts email engagement based on various features
 
 <h2> :clipboard: Execution Instruction</h2>
 <p>The order of execution of the program files is as follows:</p>
-<p><b>1) Team_3_Email_Campaign_Effectiveness_Prediction.ipynb</b></p>
-<p> The Team_3_Email_Campaign_Effectiveness_Prediction.ipynb contains the entire code for Data exploration/Data processing/transformation/model development </p>
+<p><b>1) Email Campaign Effectiveness Prediction - Mohd Zahid Ansari.ipynb</b></p>
+<p> Email Campaign Effectiveness Prediction - Mohd Zahid Ansari.ipynb contains the entire code for Data exploration/Data processing/transformation/model development </p>
 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
