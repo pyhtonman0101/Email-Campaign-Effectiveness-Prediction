@@ -86,7 +86,7 @@ Mohd Zahid Ansari | Avid Learner | Data Scientist | Machine Learning Engineer | 
       <p>Available: https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/</p>
   </li>
   <li><p>ChatGPT. [Online].</p>
-      <p>Available: [https://en.wikipedia.org/wiki/XGBoost](https://chat.openai.com/chat)</p>
+      <p>Available: (https://chat.openai.com/chat)</p>
   </li>
   <li><p>Youtube.com, 'XGBoost working'. [Online].</p>
       <p>Available: https://www.youtube.com/watch?v=OQKQHNCVf5k</p>
